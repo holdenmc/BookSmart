@@ -10,6 +10,7 @@ Data Collection:
 Translation:
 
  Designing the hits, how many people for each, planning all the separate types of hits we may want to add. Also test hits 3pts
+ 
  Aggregating the translation data 1pt
  
 Quality Control:
