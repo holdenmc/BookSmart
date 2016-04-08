@@ -37,21 +37,22 @@ Our raw data can be seen in the form of a list of images in our repo, the folder
 
 ## Data Format
 **QC Input**
+- The raw data files (.jpg)
+
+**QC Output**
+- CrowdFlower report (.csv)
+	- including QC Data
+
+**Aggregation Input**
 - CSV file with fields fileName (or URL), original, rating, updated
 	- original is the translation from the first round HIT
 	- rating is a value between 1 and 10 that represents how accurate the 2nd Pass HIT worker thinks the original translation was
 	- Updated is the translation provided by the 2nd Pass HIT worker that they believe is more accurate
 
-**QC Output**
+**Aggregation Output**
 - Tab-separated txt file
 	- fileName \t most_accurate_translation
-
-**Aggregation Input**
-- (takes in QC Output) Tab-separated txt file
-	- fileName \t most_accurate_translation
-
-**Aggregation Output**
-- x
+	- Here we will have the best translation for each page of each book
 
 
 ## QC Algorithm
@@ -60,7 +61,10 @@ Our raw data can be seen in the form of a list of images in our repo, the folder
 	- Ask worker for Rating from 1 to 10 on how accurate that translation is
 	- Ask worker for an Updated translation that they believe is more accurate
 	- If Rating > 8, keep original translation. Else, take Updated translation
+- We will also utilize CrowdFlower's reliability data to weed out bad workers
 
 
 ## Aggregation Algorithm
-- x
+- Script looks at how workers rated the translations. 
+- We choose the highest rating
+- In case of a tie, choose the first one
