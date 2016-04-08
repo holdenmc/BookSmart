@@ -65,6 +65,6 @@ Our raw data can be seen in the form of a list of images in our repo, the folder
 
 
 ## Aggregation Algorithm
-- Script looks at how workers rated the translations. 
+- Script (aggregation.py) looks at how workers rated the translations. 
 - We choose the highest rating
 - In case of a tie, choose the first one
