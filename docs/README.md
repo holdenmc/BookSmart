@@ -61,6 +61,8 @@ Our raw data can be seen in the form of a list of images in our repo, the folder
 	- Ask worker for Rating from 1 to 10 on how accurate that translation is
 	- Ask worker for an Updated translation that they believe is more accurate
 	- If Rating > 8, keep original translation. Else, take Updated translation
+	- example in data/Second Pass HIT Example Screenshot.png with sample data data/sample_data_for_screenshot
+	- 
 - We will also utilize CrowdFlower's reliability data to weed out bad workers
 
 
