@@ -12,3 +12,24 @@ Quality Control:
   Determine quality of workers and maintaining hits, and use highest quality responses. 2pt
 Data Aggregation:
   Create books from our data. Must keep track of relevant info from translation. (possible Have crouwd workers organize the book for us) 3pts
+
+
+
+## Data Format
+QC Input
+- CSV file with fields fileName (or URL), original, rating, updated
+	- original is the translation from the first round HIT
+	- rating is a value between 1 and 10 that represents how accurate the 2nd Pass HIT worker thinks the original translation was
+	- Updated is the translation provided by the 2nd Pass HIT worker that they believe is more accurate
+
+QC Output
+- Tab-separated txt file
+	- fileName \t most_accurate_translation
+
+
+## QC Algorithm
+- Second Pass HIT
+	- Show Worker the picture of the page and the translation provided by a previous worker
+	- Ask worker for Rating from 1 to 10 on how accurate that translation is
+	- Ask worker for an Updated translation that they believe is more accurate
+	- If Rating > 8, keep original translation. Else, take Updated translation
