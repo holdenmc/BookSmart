@@ -1,0 +1,10 @@
+Your repository must contain a src/ directory. It can be organized however best fits your system’s architecture, but it should contain the following implementations. Make sure you state clearly in your README where to find each piece.
+
+A simple, working version of your quality control module. This can be a simple majority vote, a 2nd pass HIT, or whatever. You should also describe what you’ll need to do to improve it for the final version of your project.
+
+A simple, working version of your aggregation module. This version can operate on your simulated data. Say what additional work is needed for the final version of your project.
+
+Update your README.md file to include which parts of the code deal with QC / Aggregation etc. and how they work.
+
+Note: These modules need not be hooked into your UI yet, but they should be able to pass through your dummy data and populate useful output data. You will explain in your project meeting how the values will be interpreted. Yes, we know, every group will have a very valid reason why their project doesn’t have a QC and/or aggregation module, per se. In truth, you probably do. (If your project isn’t aggregating at some point and doing QC at some point, you need to take a big step back and think about whether what you proposed is a good fit for this class.) Make your best effort to write some code that captures the essence of the aggretation/QC you will need, and we can discuss the problems and limitations in Part 3.
+
