@@ -24,7 +24,13 @@ Data Aggregation:
   Create books from our data. Must keep track of relevant info from translation. (possible Have crouwd workers organize the book for us) 3pts
 
 
+## Raw Input
+-We require books from the booksite http://www.childrenslibrary.org/, in the form of images. 
+-Each image represents a page.
+Data Retrieval: We have developed a crawler, currently named "get_links_crawler.py". This crawler is made specifically for the childrenslibrary and can easily be used to pull all books in a specific language. The crawler is nearly complete, all that is necessary at this point is to make sure it ignores books that are already translated into english. 
+Our raw data can be seen in the form of a list of images in our repo, the folder wilhelm contains a book we gathered with our crawler. We will use this crawler to get the full data set, a certain number of books.
 
+-
 ## Data Format
 QC Input
 - CSV file with fields fileName (or URL), original, rating, updated
