@@ -1,0 +1,8 @@
+Your repository must contain a data/ directory. For now, this should contain the following:
+
+Raw data input that your project requires. If your project needs inputs like Tweets about HPV, pictures of celebrities wearing stylings threads, or psycholinguistic stimuli, then spend time gathering a set of these inputs. You don’t need the whole dataset, but have enough to be able to get a MVP (Minimal Viable Product) of your idea working.
+Eventually you’ll be gathering real data from the crowd. Before that happens you should create fake data that you can use as input for the initial implementation of your modules. Create a data subsection of your README file that describes the format. Ideally the format will be reusable when you get real data from your workers. That way you only have to change your input files, and your algorithms can operate as they did before.
+
+Sample input/output from your QC module. You don’t need to have collected all your actual data yet, but you should decide on what the input will look like and what the output will be. You should be able to make a small example file to illustrate how your module works. E.g. if workers are labeling tweets, you can grab 10 tweets and make up labels for three imaginary workers.
+
+Sample input/output from your aggregation module. Again, you don’t need your actual data, but should decide on the input and output format. It is okay if there is some overlap or dependence between these files and the files you give above for the QC module. Just verbosely document in your README and your flow diagram how these modules/data interact.
