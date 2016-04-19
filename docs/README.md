@@ -34,6 +34,9 @@ _Milestones: Data Collection, Translation, Quality Control, Data Aggregation_
 **Data Retrieval:** We have developed a crawler, currently named "get_links_crawler.py". This crawler is made specifically for the childrenslibrary and can easily be used to pull all books in a specific language. The crawler is nearly complete, all that is necessary at this point is to make sure it ignores books that are already translated into english.
 Our raw data can be seen in the form of a list of images in our repo, the folder wilhelm contains a book we gathered with our crawler. We will use this crawler to get the full data set, a certain number of books.
 
+**How The Crawler Code Works**
+The crawler is what we run to get our books from the childrenslibrary website. It has not been optimized to take in inputs but it can be done. As of now I just need to change the specified language in main and the script handles getting all of the links to the book pages and downloads all of the images in each book, numbering them by page. More specifically, it uses beautifulsoup4 and urllib libraries to work with the requests and html, with the son library to help parsing. It is optimized for the childrenslibrary website.
+
 
 ## Data Format
 **QC Input**
@@ -64,6 +67,8 @@ Our raw data can be seen in the form of a list of images in our repo, the folder
 	- example in data/Second Pass HIT Example Screenshot.png with sample data data/sample_data_for_screenshot
 	- 
 - We will also utilize CrowdFlower's reliability data to weed out bad workers
+**How the QC Code works** 
+Reads the csv from the QC hit and then decides based on how high the translation was rated whether or not to use the original translation  or a new one.
 
 
 ## Aggregation Algorithm
