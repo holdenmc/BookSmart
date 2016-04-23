@@ -6,7 +6,7 @@ _Milestones: Data Collection, Translation, Quality Control, Data Aggregation_
 
 **Data Collection:**
 
-  We will need to get our book data from the Children's Digital Library. For this we will write a python script using things we have done in class previously. 2pts
+  We will need to get our book data from the Children's Digital Library. For this we will write a python script using things we have done in class previously. We have decided on using Spanish as our main language and have set up the working prototype with spanish hits, after some testing we have decided that french would be the second best language for our project. 2pts
 
   Once we have this data we must arrange it in reasonably sized portions to make separate hits as well as keeping them organized in a manner than translates well for our aggregation later on. 1pt
 
