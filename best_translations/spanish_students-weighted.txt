@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/Children's_stories/Children's_stories_40.jpg 	Observe and interpret each scene below. Then for the six pictures, tell a story.
 https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/Children's_stories/Children's_stories_4.jpg 	This is the mouse,
 that is in a corner,
 eating cheese
@@ -17,6 +18,16 @@ ate the cheese
 Margarita made,
 with milk from his goat.
 https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/A_girl's_poems/A_girl's_poems_5.jpg 	
+https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/A_girl's_poems/A_girl's_poems_42.jpg 	In Nature
+
+To feel the freshness of the green in my hands,
+I am in communication with the gods, without care
+
+We are already in winter. The flowers are showing
+their colors, the grass is already showing its freshness
+
+What has happened in my soul to see so much beauty?
+The gods are very close to nature
 https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/A_girl's_poems/A_girl's_poems_6.jpg 	Dance poetics
 
 I would like to be a poet;
@@ -28,6 +39,24 @@ https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/
 https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/A_girl's_poems/A_girl's_poems_16.jpg 	poems for a girl
 by milagros teran
 illustrations by marta toledo
+https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/Children's_stories/Children's_stories_34.jpg 	Nativity
+
+Joseph and Mary lived in a city called Nazareth
+The Archangel Gabriel was commanded by God to tell Mary that she will be the mother of the Messiah.
+
+Joseph and Mary traveled to Egypt to comply with the census that Emperor Augustus had ordered. As there was no place to stay, they took shelter in a stable.
+https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/A_girl's_poems/A_girl's_poems_15.jpg 	My purpose
+
+I have to keep firm,
+without turning around.
+
+Continue moving forward,
+walk and fight.
+
+Reach the goal,
+crown myself with flowers.
+
+And then continue forever without turning back.
 https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/Children's_stories/Children's_stories_27.jpg 	Young children when flicking through storybooks identify words by connecting them with the figures observed. Gradually, they are driven by their curiosity, associate, relate, interpret, understand and describe images, expressing the contents with their own words. At this age, then, stories can serve a dual function: to entertain and go developing in them the basic skills of listening and speaking before starting the formal learning of reading and writing.
 For this reason, the stories that make up this book are short and simple and are carefully selected and adapted for children beginning to learn to read. The attractive and interesting illustrations in its pages are intended to stimulate oral expression.
 With this educational material, we intend to help our children to be educated as good Peruvians and that, at all times, love nature and can appreciate the wonderful open from God. We seek also to create situations that will help them think about fundamental values ​​for their life and, above all, to encourage them to implement them.
@@ -71,11 +100,56 @@ Center of documentation and information of children's literature
 
 Selections and orientations (orations?)
 Lily C. de Cuelo
+https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/A_girl's_poems/A_girl's_poems_20.jpg 	"Live"
+
+If I'm alone,
+I am nothing. 
+To feel the sun,
+To feel alive
+Is the best.
+
+To hear a bird sing,
+To see a flower born, 
+To feel the sun burn...
+That is really what it is like to live!
+
+I want to transmit this message to the youth
+because I am like them: 
+When they feel the rain fall
+that is living.
 https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/Children's_stories/Children's_stories_16.jpg 	collection i like to read
+https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/A_girl's_poems/A_girl's_poems_48.jpg 	
+https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/Children's_stories/Children's_stories_19.jpg 	A grandma and graph have an egg that is unbreakable. They try cracking the egg in several different ways, and in the last picture they are standing infront of a hen with a facial expression that says that they understand what has been the cause of the unbreakable egg.
 https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/A_girl's_poems/A_girl's_poems_18.jpg 	
 https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/A_girl's_poems/A_girl's_poems_51.jpg 	
 https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/A_girl's_poems/A_girl's_poems_12.jpg 	
 https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/A_girl's_poems/A_girl's_poems_0.jpg 	
+https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/Children's_stories/Children's_stories_10.jpg 	The Telephone
+Ring... ring... ring... sounds the telephone.
+The elephant approaches it instantly and answers the telephone.
+-Who is it?
+-Is it my friend the bear?
+-From where did he call me?
+Snarling furiously, the bear responded:
+-Stop snarling! said the elephant
+What do you want to ask?
+Coffee, tea, or [mate?]
+I want none of that. I want chocolate!
+https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/A_girl's_poems/A_girl's_poems_39.jpg 	Three friends
+by  Katia and Roxana
+
+As we walk down life's  path, 
+let us  sing.
+how three little butterflies play together,
+how three little hearts who desire,
+playing, singing, and enjoying the life,
+brimming with joy in our souls.
+
+God who watches us from heaven
+compares his greatness with us
+
+Laughing, wanting, we have been praying
+asking for God that is in heaven
 https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/A_girl's_poems/A_girl's_poems_23.jpg 	Claim
 
 How beautiful is the world in which we live is more a compliment is not it; It is a mockery that I feel for riches and poverty.
@@ -104,6 +178,17 @@ I am new, I replied. I don't understand nor comprehend your singing.
 Do you want to see what I think?
 It's only a dream.
 https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/Children's_stories/Children's_stories_20.jpg 	I need a little place. The animals found a plce to their liking. The sun is shining and everyone is happy. The ant exclaims: How has this happened? A place with such little creatures? A frog that was listening replied: Croc croc, it is goodness that allowed all of us to get together in such a place.
+https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/Children's_stories/Children's_stories_37.jpg 	The midget Ichi
+
+From inside a mountain, came out a dwarf. 
+He had red hair. He was called Ichi.
+For between sorrows, Ichi jumped
+and his hair got tangled among the leaves.
+
+Ichi was funny and a joker.
+When he surprised the miners,
+he touched his belly like a drum
+and growled to scare them.
 https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/Children's_stories/Children's_stories_29.jpg 	The little mouse
 Two old mice gave some wise advice to the little mouse.
 
@@ -128,6 +213,11 @@ To the snakes and the tortoises, he gave condensed milk in a tablespoon
 And they were all healthy! They were already all good!
 Everyone laughed! Everyone yelled!
 Long live the doctor Aymeduele!
+https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/A_girl's_poems/A_girl's_poems_8.jpg 	Dream
+
+Mother, that crazy idea I have. I would like to be a poet and not a child and not bad but good. I do not think it's so easy.
+
+I guess my name on a white paste, bookstores full of people buying. My delighted family, my cheerful heart, and my mind creating more and more thoughts.
 https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/Children's_stories/Children's_stories_39.jpg 	The kind ant
 While  an ant was searching for her food, a strong rain fell. So, she put herself in a hole in the trunk of a tree. Suddenly, a butterfly arrived and said to her: "I have wet wings and cannot fly." The ant answered, "Come, this place is very small, but here we can both stay." When the butterfly had settled, a mouse arrived running and said, " Please, the water has made me wet. I need a place." "Oh!" said the butterfly. The hollow is very small, but we will give you a small site. The rain continued to fall. Suddenly, a jumping bird arrived and said, "My feathers are wet and I cannot fly."
 https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/Children's_stories/Children's_stories_11.jpg 	After the strong wind subsided, 
@@ -144,6 +234,25 @@ Do you know why I survived?
 Because the special model
 of my pretty house, 
 protects my beautiful body.
+https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/A_girl's_poems/A_girl's_poems_30.jpg 	The bamboo bends with drowsy singing in the night. Upright and firm, they dance to a compass of strange music.
+Their strong stems dance while the cold of the night tells them it's nonsense.
+That noise - how strange!
+It looks like the tall bamboo will break.
+And much later, dawn breaks.
+The birds roost in the heights [of the trees]
+The bamboo is quiet, already sleeping while they rest,
+and the birds count on it in the night
+https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/A_girl's_poems/A_girl's_poems_26.jpg 	My brances
+
+I have spent many months wearing these chains in my teeth
+In order to be more beautiful
+in order to close my mouth
+in order to smile like a princess
+
+Today I was released
+Gone are the wires
+The barbed wires
+The chains
 https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/Children's_stories/Children's_stories_15.jpg 	index
 https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/Children's_stories/Children's_stories_38.jpg 	Observe, interpret, and describe the scenes in each square. After, associate the contents of the six scenes and relate the story, expressing in complete sentences. Invent a title.
 https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/Children's_stories/Children's_stories_42.jpg 	Puss and Snuff 
@@ -177,15 +286,51 @@ and sings under the earth.
 Its soft songs came out air
 and they mingled with the noise of the rivers.
 At Amancer, the distant dwarf ichi tunes awakened the children and terneritors and bellowing and bleating lambs sweetly.
+https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/Children's_stories/Children's_stories_47.jpg 	The duckling and the chick
+
+My friend chick, I came out of a shell.  Quack quack quack!
+I did too my friend duckling.  Chirp chirp chirp!
+I like little worms. Chirp chirp chirp!
+Me too. Quack quack quack!
+I am pecking seeds.  Quack quack quack!
+me too.  Chirp chirp chirp!
+https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/Children's_stories/Children's_stories_33.jpg 	Cuentos
+infantiles
 https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/Children's_stories/Children's_stories_21.jpg 	The fish and the turtle.
 
 One time 2 fish lived in the sea and found a turtle. They laughed at her because to them her turtle body was ugly. 
 
 In that moment. A strong current passed that slammed the fish to rocks. "Hide!" they yelled at the Turtle.
+https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/A_girl's_poems/A_girl's_poems_31.jpg 	My life
+
+Life is my life, my world.
+
+My life, my sound, my birth.
+
+The feel alive for everyone.
+
+The feeling I do not live to live.
 https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/A_girl's_poems/A_girl's_poems_19.jpg 	Poems of a girl by Milagros Teran, illustrations by Marta Toledo
+https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/A_girl's_poems/A_girl's_poems_10.jpg 	A night held high with a sky held clean, the birds that sing melodies without rhythm
+
+The wind that is felt when a lament is said, an old white beard when it says "I love you."
+
+A silent girl, thinks and composes a dream, the leaves of the trees say a thought.
+
+She is silent and reasons, wants to capture a dream, a dream that escapes because it doesn't want to be owned.
+
+And a mother calls her, wants to give her advice, "look child, it's already late, compose your dream"
+
+It's that mother... you don't understand? I escape life! That life that is only a happy thought.
 https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/A_girl's_poems/A_girl's_poems_32.jpg 	
 https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/Children's_stories/Children's_stories_12.jpg 	"You have the face of a donkey," repeated the pepper and boots the poor chili pepper. "Get out of here!" "You're fresh and have wrinkles," she criticized the lettuce. He calls to the onion, and moans. "You smell like a  scourer!" censors Mister Garlic. "Only me, I am very beautiful, chubby, and delicious. I am the king of the vegetables! I hear, ugly creatures? But the cook came and because the quarrelsome tomato was fat and colorful, he melted him in the stew.
 https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/Children's_stories/Children's_stories_0.jpg 	observe every scene and say what they are doing in every scene
+https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/Children's_stories/Children's_stories_5.jpg 	Dont cry little sister. Says juanita, we will go play with the plants. Take this white flower, and also take these leaves so you can play. Pedrito laughed with his sister. Juanita showing her the yellow flowers said, " these are some cute chicks". For the big leaves "This is a canoe". For the small leaves " these are butterflies". That way Juanita made up stories and games for Pedrito and took care of him while their mom and dad worked. When the mom and dad return from the farm they find the kids happy.
+https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/Children's_stories/Children's_stories_36.jpg 	A mischievous monkey lived in the jungle. One day, an elegant and high giraffe greeted him and accompanied him. The two friends came to a beautiful place where there were many trees. The mischievous monkey plucked the leaves to play with his friend.
+
+Then, they felt that the branches moved sharply and suddenly, and they were trapped.
+https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/Children's_stories/Children's_stories_17.jpg 	One time, a fly got caught in a web. A mouse that passed by, seeing the scared fly, felt compassion for the fly and helped it. The mouse broke the web with its teeth and the fly was able to escape. "Thanks!", said the fly to its friend the mouse. Never will I forget this good action. Later, the fly returned. A little time later, while the mouse gnawed a delicious block of cheese a cat waited to trap it. In that moment, the fly arrived and upon realizing his friend's danger began to rapidly peck the ear of the cat. Before causing harm to the mouse, the cat disappeared immediately.
+https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/Children's_stories/Children's_stories_22.jpg 	
 https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/A_girl's_poems/A_girl's_poems_43.jpg 	My shoes
 
 My school shoes
@@ -202,6 +347,18 @@ I no longer have to tie them.
 
 They let loose on the streets,
 like doves.
+https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/A_girl's_poems/A_girl's_poems_47.jpg 	
+https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/Children's_stories/Children's_stories_26.jpg 	The ants
+https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/A_girl's_poems/A_girl's_poems_45.jpg 	To a friend
+
+I need you
+I need your help and I ask for it
+Don't leave me when I need the warmth that you give me
+No one understands the care that I feel, they don't know
+
+It is something special within me and it burns me
+It is a love of sisters
+And I ask for you to never leave me
 https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/A_girl's_poems/A_girl's_poems_29.jpg 	Just in case, maybe
 
 perhaps some day
@@ -247,16 +404,79 @@ https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/
 Ariana Lucia
 Alexia Jose and 
 Andrea Milagros
+https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/Children's_stories/Children's_stories_48.jpg 	The tree grabbed them and said to them:
+Why do you destroy me? You do not know that God created me to help you live?
+
+Then, the monkey and giraffe were embarrassed  and asked forgiveness, and promised to help care for the plants in the jungle.
+
+The tree let  them go and, to show his friendship, invited the giraffe to the leaves and the monkeys to the mangoes. 
+
+The friends were happy.  They  understood that  they had learned a good lesson.
 https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/Children's_stories/Children's_stories_35.jpg 	Pegleg bunny
 https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/A_girl's_poems/A_girl's_poems_4.jpg 	
+https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/A_girl's_poems/A_girl's_poems_27.jpg 	Inside my mouth, swim, happy as fish, my teeth.
+
+They are smooth as rose petals, are smooth as silk, are free to eat jocote, mango, and hard corncobs.
 https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/Children's_stories/Children's_stories_46.jpg 	
 https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/Children's_stories/Children's_stories_2.jpg 	The girl and her brother. 
 
 In a house like this, close to the Amazon river, lives Juanita with her dad, her mom, and Pedrito.
 
 Pedrito likes to play near the river, Juanita tells him: "Pedrito, Lets Play", but the boy is mischevious and leaves all alone. Since Pedrito runs the risk of drowning, his sister takes care of him and takes him home.
+https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/Children's_stories/Children's_stories_1.jpg 	Again the bear called: save the seal! Yesterday, a hedgehog jabbed the seal.
+
+Yesterday, he called the pig: "Do you have a Mockingbird? The nightingale and I could sing a song in his honor." "No way! No sir! It will never sing the nightingale with the pig!"
+
+Later, when it was dark, he called the kangaroo: "Tell me, does the sheep live there?" It shouted indignantly: "You are wrong! He has scored wrong! Call the center!"
 https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/A_girl's_poems/A_girl's_poems_50.jpg 	
 https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/Children's_stories/Children's_stories_31.jpg 	
+https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/A_girl's_poems/A_girl's_poems_14.jpg 	
+https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/A_girl's_poems/A_girl's_poems_44.jpg 	Tree
+I give all my support,
+my help is not much.
+I give them all
+my smile
+
+I feel like a big tree
+rootless
+because I'm a walker
+on the road of life
+
+I know I have to learn a lot
+still
+and to appreciate
+what is in this life
+https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/A_girl's_poems/A_girl's_poems_24.jpg 	My soul
+I feel that my soul has risen
+and is lost in the clouds
+Where will it go?
+It crosses mountains and rivers
+volcanoes and lakes
+It continues always that way:
+Rising
+Rising
+It is a modern soul
+
+Finally
+It stops, looks at me
+and continues its path
+It is an aimless soul
+https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/Children's_stories/Children's_stories_45.jpg 	Dr. Ouch
+
+Dr. Ouch, calms  all pain.
+He answers every call to the alarm -
+They have become sick? 
+Oh, what a coincidence!
+
+The doctor hurries out
+with a striped briefcase
+full of medications.
+
+The most desperate say:
+Help me! Where are you?
+See, that I cannot anymore.
+https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/A_girl's_poems/A_girl's_poems_41.jpg 	
+https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/Children's_stories/Children's_stories_24.jpg 	In the early morning, the boy God was born, in the middle of poverty and humility. Maria wrapped him in diapers and leaned him back in a manger. An angel was presented to some shepherds who were taking care of their sheep and announced to them the birth of the boy Jesus. The shepherds hurried up and knelt to worship the boy Jesus. Immediately, thousands of angels appeared to praise the God singing: Glory to god in the heights and peace on earth to the men who love the Lord. A mysterious star guided the Three Wise Men during a long journey until they arrived in Bethlehem. The Three Wise Men worshipped the boy Jesus, and offered him gold, frankincense, and myrrh.
 https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/A_girl's_poems/A_girl's_poems_1.jpg 	But missing a lot for that time that comes.  It is almost impossible to think that someday there will be peace.
 
 Perhaps that day that I in the other world, beyond where will not see me; but if you'll be happy to feel that my purpose is over.  It is almost impossible to happen, but...there is always hope.
@@ -297,6 +517,7 @@ My love is bigger than the sea
 And my feelings clearer
 and more sincere
 Than a wave as it strikes
+https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/Children's_stories/Children's_stories_8.jpg 	On the next day, the neighbors ran into each other in the pelican's house. The pelican put a bottle full of ??? food on top of the table. The fox futilely tried to reach past the neck of the botel. At the end, the pelican told the fox: "I hope, friend, that you have been satisfied." The fox did not respond to the pelican. Very annoyed, the fox returned to its house with its tail between its legs.
 https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/Children's_stories/Children's_stories_7.jpg 	Observe the images and comment on what Sierra's kids do.
 https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/Children's_stories/Children's_stories_6.jpg 	It's silly to call this a cat. I'm not scared! It looks good from afar for a while. 
 
@@ -316,9 +537,16 @@ Something that comes out of nowhere,
 something  that fizzles in the air,
 it will, it  moves away from me...
 It is lost.
+https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/Children's_stories/Children's_stories_13.jpg 	Strolling through the orchard, we saw a dead worm. 
+I grabbed it by the tail and I didn't get the worm out. 
+"Pull!" I told my brother - It looks like it is a giant worm. 
+But suddenly - What a surprise! - it was actually a rat.
 https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/A_girl's_poems/A_girl's_poems_36.jpg 	Can't translate
+https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/A_girl's_poems/A_girl's_poems_33.jpg 	Is it that you don't understand it or that you don't want it? Do you not know that I ___ you, that in my heart the tears ___ me? That I wait and dream of you all day? Is it that you don't understand? I wait for you in my dreams, I miss you in the night when my heart dreams of talking to you. Do you not understand? I want you to realize that I exist, that I live _____ your presence and that I don't only live, but also die wanting you.
+https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/A_girl's_poems/A_girl's_poems_46.jpg 	
 https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/Children's_stories/Children's_stories_14.jpg 	Look at the four scenes. Interpret and name the story.
 https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/A_girl's_poems/A_girl's_poems_35.jpg 	
+https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/Children's_stories/Children's_stories_23.jpg 	Observe, and interpret the scene. Narrate the story. Invent a title.
 https://raw.githubusercontent.com/holdenmc/BookSmart/master/data/raw_input_data/spanish_books/Children's_stories/Children's_stories_28.jpg 	The duckling continued walking, and it arrived at a stable. A cow called out: "Moo, moo moo!" The duckling wanted to say "moo" but it coudn't. 
 
 The duckling was sad. It couldn't say "meow", it couldn't say "ruff", it couldn't say "tweet", it couldn't say "moo"! 

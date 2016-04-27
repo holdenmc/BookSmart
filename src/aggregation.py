@@ -121,7 +121,7 @@ def compute_and_print_best_versions(file, filename) :
 			maxWeighted = weightedAvg2
 
 		if weightedAvg3 > maxWeighted :
-			maxWeighted = 3
+			maxWeighted = weightedAvg3
 
 		if maxWeighted == weightedAvg1 :
 			print >> f2, key, '\t', best_translations[key]['translation1']
