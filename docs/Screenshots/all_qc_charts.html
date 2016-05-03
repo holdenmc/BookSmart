@@ -1,0 +1,64 @@
+<html>
+
+<head>
+  <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+  <script type="text/javascript">
+    google.load("visualization", "1.1", {packages:["corechart"]});
+    google.setOnLoadCallback(drawCharts);
+
+    function drawCharts() {
+      var chart_data = google.visualization.arrayToDataTable([
+        ['Type?', 'All', 'Best', { role: 'annotation' } ],
+        ['French Non-weighted', 5.78065693431, 6.90032679739, ''],
+        ['French Weighted', 4.64618956204, 5.61370924837, ''],
+        ['Spanish Non-weighted', 6.54785615491, 7.85914634146, ''],
+        ['Spanish Weighted', 5.47661780775, 6.62752808943, ''],
+      ]);
+      var options = {
+        width: 1200,
+        height: 700,
+        title: 'Crowdworkers rating Crowdworkers on French vs on Spanish (0 to 10 scale)',
+      };
+      var chart = new google.visualization.ColumnChart(document.getElementById("columnchart1"));
+      chart.draw(chart_data, options);
+
+      var chart_data = google.visualization.arrayToDataTable([
+        ['Type?', 'All', 'Best', { role: 'annotation' } ],
+        ['CWs r. CWs Non-weighted', 6.48026584867, 7.0962745098, ''],
+        ['CWs r. CWs Weighted', 5.80950754601, 6.33466127451, ''],
+        ['CWs r. Students Non-weighted', 6.43018327606, 7.7696369637, ''],
+        ['CWs r. Students Weighted', 5.33716106529, 6.47238381188, ''],
+      ]);
+      var options = {
+        width: 1200,
+        height: 700,
+        title: 'Crowdworkers rating Crowdworkers vs Crowdworkers rating Students (Spanish) (0 to 10 scale)',
+      };
+      var chart = new google.visualization.ColumnChart(document.getElementById("columnchart2"));
+      chart.draw(chart_data, options);
+
+      var chart_data = google.visualization.arrayToDataTable([
+        ['Type?', 'All', 'Best', { role: 'annotation' } ],
+        ['Students r. CWs Non-weighted', 6.20977011494, 6.67655677656, ''],
+        ['Students r. CWs Weighted', 5.41615518199, 5.82020250916, ''],
+        ['CWs r. CWs Non-weighted', 6.48026584867, 7.0962745098, ''],
+        ['CWs r. CWs Weighted', 5.80950754601, 6.33466127451, ''],
+      ]);
+      var options = {
+        width: 1200,
+        height: 700,
+        title: 'Students rating Crowdworkers vs Crowdworkers rating Crowdworkers (Spanish) (0 to 10 scale)',
+      };
+      var chart = new google.visualization.ColumnChart(document.getElementById("columnchart3"));
+      chart.draw(chart_data, options);
+    }
+  </script>
+</head>
+
+<body>
+  <div id="columnchart1"></div>
+  <div id="columnchart2"></div>
+  <div id="columnchart3"></div>
+</body>
+
+</html>
