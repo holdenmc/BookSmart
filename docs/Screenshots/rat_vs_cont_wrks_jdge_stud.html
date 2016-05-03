@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawChart);
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+          ['Contributions', 'Average Rating'],
+          [16.0, 4.968253968253968], [13.0, 6.914893617021277], [4.0, 7.0], [1.0, 8.5], [10.0, 7.5675675675675675], [11.0, 6.794871794871795], [12.0, 7.578947368421052], [12.0, 5.488888888888889], [2.0, 7.714285714285714], [3.0, 4.230769230769231], [13.0, 4.638297872340425], [10.0, 5.647058823529412], [14.0, 4.764705882352941], [1.0, 7.2], [20.0, 6.905882352941177], [18.0, 7.03125], [12.0, 7.690476190476191], [20.0, 7.4743589743589745], [8.0, 7.777777777777778], [10.0, 7.075], [18.0, 7.03125], [11.0, 6.9787234042553195], [2.0, 7.0], [12.0, 6.98], [47.0, 5.551351351351351], [6.0, 6.190476190476191]
+        ]);
+
+        var options = {
+          title: 'Student Rating (By Worker) vs. Contribution comparison',
+          hAxis: {title: 'Contributions', minValue: 0, maxValue: 10},
+          vAxis: {title: 'Average Rating', minValue: 0, maxValue: 10},
+          legend: 'none'
+        };
+
+        var chart = new google.visualization.ScatterChart(document.getElementById('chart_div'));
+
+        chart.draw(data, options);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="chart_div" style="width: 900px; height: 500px;"></div>
+  </body>
+</html>
