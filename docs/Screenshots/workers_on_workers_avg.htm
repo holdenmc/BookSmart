@@ -1,0 +1,37 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['bar']});
+      google.charts.setOnLoadCallback(drawStuff);
+
+      function drawStuff() {
+        var data = new google.visualization.arrayToDataTable([
+          ['Number', 'Rating'],
+          ['0', 10.0], ['1', 10.0], ['2', 10.0], ['3', 9.4], ['4', 9.333333333333334], ['5', 8.909090909090908], ['6', 8.9], ['7', 8.777777777777779], ['8', 8.7], ['9', 8.7], ['10', 8.4], ['11', 8.4], ['12', 8.333333333333334], ['13', 8.333333333333334], ['14', 8.263157894736842], ['15', 8.2], ['16', 8.125], ['17', 7.9], ['18', 7.8], ['19', 7.766666666666667], ['20', 7.7], ['21', 7.666666666666667], ['22', 7.461538461538462], ['23', 7.444444444444445], ['24', 7.363636363636363], ['25', 7.222222222222222], ['26', 7.222222222222222], ['27', 7.181818181818182], ['28', 7.105263157894737], ['29', 7.1], ['30', 7.1], ['31', 6.7368421052631575], ['32', 6.7], ['33', 6.3], ['34', 6.2727272727272725], ['35', 6.222222222222222], ['36', 6.171428571428572], ['37', 5.8], ['38', 5.8], ['39', 5.7], ['40', 5.7], ['41', 5.7], ['42', 5.6], ['43', 5.6], ['44', 5.5], ['45', 5.5], ['46', 5.4], ['47', 5.222222222222222], ['48', 5.222222222222222], ['49', 5.0], ['50', 5.0], ['51', 5.0], ['52', 4.9], ['53', 4.9], ['54', 4.5], ['55', 4.5], ['56', 4.2], ['57', 4.1], ['58', 3.8], ['59', 3.5], ['60', 3.4444444444444446], ['61', 3.4], ['62', 3.05], ['63', 1.4], ['64', 1.1111111111111112], ['65', 1.0], ['66', 1.0], ['67', 1.0], ['68', 1.0], ['69', 1.0], ['70', 1.0]
+        ]);
+
+
+        var options = {
+          title: 'Workers Rating Workers CrowdWorker Average Rating',
+          width: 900,
+          legend: { position: 'none' },
+          chart: { subtitle: 'Sorted best to worst' },
+          axes: {
+            x: {
+              0: { side: 'top', label: 'Average Ratings for each Worker'} // Top x-axis.
+            }
+          },
+          bar: { groupWidth: "90%" }
+        };
+
+        var chart = new google.charts.Bar(document.getElementById('top_x_div'));
+        // Convert the Classic options to Material options.
+        chart.draw(data, google.charts.Bar.convertOptions(options));
+      };
+    </script>
+  </head>
+  <body>
+    <div id="top_x_div" style="width: 900px; height: 500px;"></div>
+  </body>
+</html>
