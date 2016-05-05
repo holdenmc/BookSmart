@@ -1,0 +1,35 @@
+Outline:
+Description of Project
+Final Outcome-Successes/Failures
+Analysis
+
+From Submission Page:
+Motivate the problem you are trying to solve or question you are trying to answer, and why crowdsourcing is an especially good fit for solving/answering it.
+Give a quick background on related problems. Have others tried to solve the same problem? What makes your approach different/better?
+Demo your solution/product. If you built an app, show it off in all its glory; if you conducted a scientific study, explain your procedure and demo the crowd-facing components.
+Describe your method/algorithm. Make sure you address the issues of incentives, quality control, and aggregation. Which components you focus on will differ depending on your project, so you don’t have to give each one equal weight. Touch on each one, but focus on the part that was the most challenging or required the most creativity.
+Discuss your results. Convince us that what you did “worked”. What is the take-away?
+OUR SCRIPT
+Intro
+Discussed in class, we can pull off stuff from there.
+Ever since World War 2, scientists and researchers have been trying to figure out how to translate from one language to another using computers. It’s proven to be a very difficult problem to solve, especially because even an 80% good translation is fairly useless in a “Real Life” scenario.
+Our project solves the basic problem of translating from one language to another. Crowdsourcing is an especially good fit for the reasons explained in class. There are 3 main methods discussed in class to translate text. Method 1 is to have a professional translator do the work, the second option is to use a machine learning algorithm to do the translation and the third
+Background
+There is a lot of money flowing into translation crowdsourcing companies recently, with players such as Duolingo, Gengo, Qordoba, VerbalizeIt, and more, looking to surpass what is possible with only machine translation. Especially telling is that (according to Natalia Kelly of the Common Sense Advisory) around $30 million had been invested into these companies by 2013, whereas machine translation was being mainly funded more by internal investments within companies like Google (into their Google Translate division, for example).
+Since we are not a startup with $1.5 million in funding, we couldn’t take an approach like that of Duolingo, where they created a gamified way of extracting translations from a large crowd, for free, through language-learning software and pairing with machine translation. However, we definitely can use CrowdFlower and Amazon Turk, which is how we chose to obtain our translations (other than the student-crowd). 
+We chose to go for the greater good, and translate children’s books from other languages (namely, French and Spanish) into English. We obtained the books from the International Children’s Digital Library, or ICDL for short. (http://en.childrenslibrary.org/) 
+One common approach to translating online content is asking for volunteers. For example, Facebook asks for volunteers to translate parts of its UI, and many apps on Android and iOS have notifications every now and then to “help translate the app to your language”, etc. The ICDL uses this approach to translating books as well, and volunteer translators have helped translate parts of their collection.
+However, many of their books have not been translated, and since those translators are volunteers they only do it for fun in their free time. Our approach is different, by hiring crowdworkers we can get many more books translated, although of course we need to pay them. Complementing crowdsourcing with allowing volunteers to contribute is a great way to get the most translations for the least amount of money.
+Demo Script
+I’m just going to put together some video of using the various components. I think Demo and Algorithm are pretty much the same thing (demo is just going to be the background video while the algorithm is described)
+
+Our Algorithm
+Our algorithm used 2 crowdflower hits in order to translate the pages of our children’s books. First, we used our scraper to get the images of each page from the International Children’s Digital Library. 
+For our first crowdflower hit we had Spanish and French speakers look at an image of a page in a children’s book in their language and translate the Spanish/French text to English. For each page, we paid 3 people 5 cents each to translate so we could choose the best one out of the 3 to put in our book. 
+But in order to do this we also had to figure out what the quality of each translation was. To do this, we made a second crowdflower hit where we asked any English speaker to rate the quality of each translation based on whether it made sense and had correct grammar/spelling. For each translation, we had 5 people judge the quality and paid them 1 cent per judgement. 
+We averaged those 5 judgements and used that as the metric for the quality of the translation. We also averaged the judgments a second time, weighting them by the trust value of the worker who judged them. This produced two translations of each book, one based on raw evaluations and one based on weighted evaluations. After selecting the best translation for every page, we compiled all translations into a book.
+Results & Conclusion
+The translations were mostly reasonable, but there were many pages that were never translated effectively and due to crowdflower’s system, there wasn't much we could do about it. We managed to have 8 books translated which you can find on our git repo as txt files. Near the end of the project we decided to focus more on the analysis than on making the books but we still got those done. 
+For our analysis we focused on analyzing worker skills and analyzing the quality of our final result.
+The two forms of analyses were closely intertwined. For our worker skills we made several relevant graphs. Here is an example of our contributor ratings for crowdworkers on spanish translation, french translation, and ratings for our student-translations in spanish. Here we can see each users number of contributions and average rating. From these graphs, we can clearly see the few users who spammed us with worthless answers, while also finding the most competent workers.
+Overall, Crowdflower proved to be a somewhat inneffective way of gathering translations, and we found that we would need many more attempts at translating each page before we would have an acceptable translation to publish.
