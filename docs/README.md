@@ -72,7 +72,13 @@ Reads the csv from the QC hit and then decides based on how high the translation
 
 **Book Compilation** 
 
-We needed to make books form our qc algorithm output, which we did with a script named Book.py. It can be found at 
+We needed to make books form our qc algorithm output, which we did with a script named Book.py. It can be found athttps://github.com/holdenmc/BookSmart/blob/master/src/book.py It is optimized for our naming and system structure as defined by our crawler and aggregation algorithms. 
+
+**Analysis*** 
+
+We have an analysis script, analysis.py that creates the data used for our original qc analysis charts. It just prints arrays when given -d option datas. 
+
+
 
 
 ## Aggregation Algorithm
