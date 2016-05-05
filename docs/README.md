@@ -70,6 +70,10 @@ The crawler is what we run to get our books from the childrenslibrary website. I
 **How the QC Code works** 
 Reads the csv from the QC hit and then decides based on how high the translation was rated whether or not to use the original translation  or a new one.
 
+**Book Compilation** 
+
+We needed to make books form our qc algorithm output, which we did with a script named Book.py. It can be found at 
+
 
 ## Aggregation Algorithm
 - Script (aggregation.py) looks at how workers rated the translations. 
