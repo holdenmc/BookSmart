@@ -79,9 +79,11 @@ We needed to make books form our qc algorithm output, which we did with a script
 We have an analysis script, analysis.py that creates the data used for our original qc analysis charts. It just prints arrays when given -d option datas. 
 
 
-
-
 ## Aggregation Algorithm
 - Script (aggregation.py) looks at how workers rated the translations. 
 - We choose the highest rating
 - In case of a tie, choose the first one
+- 
+## Finished output ##
+We used the book.py script found in our src to compile books from our aggregation qc algorithm.
+Text files found https://github.com/holdenmc/BookSmart/tree/master/best_translations/text_files
